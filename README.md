@@ -5,4 +5,4 @@ algorithm (TAN) over the Naive Bayes algorithm (NB) in the gaussian case. The id
 
 You find more of this detail in the notebook above and the decision rule for each algorithm.
 Once we finished the implementation, we put the two models in action for two datasets that are <b>iris</b> and <b>digits</b> both from the scikit-learn library.
-The TAN algorithm well outperformed the NB for digits dataset having an accuracy of 94% when NB had 88% and slightly for the iris dataset since the NB performed well on tjis dataset having 98% of accuracy and the TAN had 99% (More specificaly, the NB misclassified two instances of the test set while the TAN only misclassified one)
+The TAN algorithm well outperformed the NB for digits dataset having an accuracy of 94% when NB had 88% and slightly for the iris dataset since the NB performed well on this dataset having 98% of accuracy and the TAN had 99% (More specificaly, the NB misclassified two instances of the test set while the TAN only misclassified one)
